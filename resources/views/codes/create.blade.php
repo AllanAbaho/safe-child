@@ -4,7 +4,7 @@
 <div class="container">
     <div class="card">
         <div class="card-header">
-            <h3>Create Codes</h3>
+            <h5>Create Codes</h5>
         </div>
         <div class="card-body">
             <form method="post" action="{{ route('codes.store') }}">
